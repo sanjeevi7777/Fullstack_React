@@ -1,0 +1,105 @@
+.nav{
+    display: inline-block;
+    padding: 93px;
+    background-image: linear-gradient(to left bottom, #1a5bba, #007bcd, #0098d9, #1bb4e0, #60cfe5);
+    margin-left: 1000px;
+    margin-top: 10px;
+}
+.ele{
+    padding: 15px;
+    border-radius: 5px;
+    /* border: 1px solid black; */
+    font-size: 20px;
+    width: 10%;
+    height: 10%;
+    background-color:#87CEEB;
+    text-decoration: none;
+    color: black;
+}
+.div {
+    padding: 40px;
+    font-size: 30px;
+    /* background-color: antiquewhite; */
+    text-decoration: none;
+}
+.grid{
+    padding: 40px;
+}
+.login{
+    padding: 50px;
+    display: inline-block;
+}
+.input{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.form-control1 {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    border-radius: 10px;
+
+}
+.body{
+    padding: 10px;
+}
+/* .Find{
+    padding: 50px;
+} */
+label{
+    font-size: 20px;
+}
+form {
+    /* margin-top: 500px; */
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* style for form labels */
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* style for form inputs */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+/* *{
+
+    background-image: linear-gradient(to left bottom, #94d3ee, #a6d8ed, #b7dceb, #c7e1ea, #d7e5ea);
+} */
+/* style for submit button */
+/* button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+} */
+
+/* style for submit button when hovered */
+button[type="submit"]:hover {
+    background-color: #3ac0ec;
+}
+td,
+th {
+    /* padding: 1em; */
+    width: 13%;
+    height: 40px;
+    border: 1px solid #666666;
+}
+.navbar-nav{
+    padding: 10px;
+}
